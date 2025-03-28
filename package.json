@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "grammy": "^1.31.3"
+    "node-telegram-bot-api": "^0.66.0",
+    "socks-proxy-agent": "^8.0.4"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7"
   }
 }
